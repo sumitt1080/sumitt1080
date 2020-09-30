@@ -30,8 +30,9 @@
 - 🤔 I’m looking for help with **Frontend**
 - 💬 Ask me about **Flutter/Dart, Git, Github**
 - 📫 How to reach me: **sumitt1080@gmail.com**
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: **I play too much video games than coding**
+<!-- - 😄 Pronouns: ... -->
+
 -->
 
 
