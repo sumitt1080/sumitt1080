@@ -1,4 +1,4 @@
-# Hola, I'm Sumit 👋
+# Hola 👐 , I'm Sumit 👋
 
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 
