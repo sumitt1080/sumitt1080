@@ -37,8 +37,6 @@
 - ⚡ Fun fact: **I play too much video games than coding**
 <!-- - 😄 Pronouns: ... -->
 
--->
-
 
 ### Reach out to me 👓
 
