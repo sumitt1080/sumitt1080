@@ -22,7 +22,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Some Self Projects**
 - 🌱 I’m currently learning **NodeJS**
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **Frontend**
 - 💬 Ask me about **Flutter/Dart, Git, Github**
 - 📫 How to reach me: **sumitt1080@gmail.com**
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: **I play too much video games than coding**
 -->
 
