@@ -21,10 +21,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/sumitt1080)](https://github.com/sumitt1080) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-
-
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitt1080&layout=compact" alt="sumitt1080" /></br>
 
 
 ### Here are some ideas to get you started:
