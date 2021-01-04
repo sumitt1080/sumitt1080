@@ -11,6 +11,7 @@
 
 
 ![Sumit Thakur's github stats](https://github-readme-stats.vercel.app/api?username=sumitt1080&show_icons=true&theme=dracula)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sumitt1080&theme=tokyonight)
 
 
 ### Languages and Tools :computer:
